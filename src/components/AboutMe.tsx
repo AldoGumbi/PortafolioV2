@@ -52,7 +52,7 @@ class AboutMe extends Component{
                 </div>
                 <div className='describe-text'>
                   <h2>Este soy yo, <strong>Aldo Alex</strong></h2>
-                  <p>Egresado del bachillerato como <strong>Tecnólogo Profesional en Informática</strong> y actual estudiante de la licenciatura en <strong>Ingeniería en Computación</strong>, he emprendido un camino de crecimiento y aprendizaje continuo en el mundo del <strong>Desarrollo Web</strong> y la <strong>Innovación de Nuevas Tecnologías.</strong>
+                  <p>Egresado del bachillerato como <strong>Tecnólogo Profesional en Informática</strong> y actual estudiante de la licenciatura en <strong>Ingeniería en Computación</strong>, he emprendido un camino de crecimiento y aprendizaje continuo en el mundo del <strong>Desarrollo Web</strong> y la <strong>Innovación de Tecnologías.</strong>
                   <br></br>Me encanta la <strong>resolución de problemas complejos</strong> en el mundo del desarrollo tecnológico y los grandes avances que conllevan estos <strong>resultados</strong>.</p>
 
                 </div>
