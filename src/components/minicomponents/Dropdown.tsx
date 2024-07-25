@@ -19,7 +19,7 @@ const Dropdown=(props)=>{
         behavior: 'smooth',
         block: 'start', // Opcional: centra el elemento en la vista
       });
-      setIsOpen(isOpen);
+      setIsOpen(!isOpen);
     
     }
   };
