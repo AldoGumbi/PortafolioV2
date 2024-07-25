@@ -1,0 +1,43 @@
+
+.navbar{
+
+    backdrop-filter: blur(10px);
+    font-size: 10px;
+    background-color: rgba(50, 50, 50,0.5);
+    width: 50vw;
+    height: 6vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.1px solid;
+    border-radius: 10px;
+    border-color: rgba(240, 237, 237, 0.2);
+    padding-left: 20PX;
+    padding-right: 20px;
+    position: fixed;
+    z-index: 1000;
+}
+
+
+.lista-botones{
+    width: auto;
+    height: 100%;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+
+.lista-botones li{
+    vertical-align: top;
+    display: inline;
+    font-size: 1.2em;
+    margin: 2px;
+}
+
+@media (prefers-color-scheme: light) {
+    .navbar{
+        border-color: rgba(90, 90, 90, 0.401);
+        background-color: rgba(245, 245, 245, 0.974);
+        color: rgb(53, 53, 53);
+    }
+  }

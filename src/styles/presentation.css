@@ -1,0 +1,83 @@
+
+
+.presentation{
+    margin-top: 12%;
+    width: 55%;
+    height: 45%;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-me{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 0;
+    text-align: justify;
+}
+
+.photo{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-container{
+    background:linear-gradient(90deg, rgba(245, 59, 133, 0.09) 35%, rgba(0, 213, 255, 0.05) 100%);
+    backdrop-filter: blur(20px);
+    border: 0.5px solid;
+    border-color: #ffffff2a;
+    box-shadow: 0px 0px 100px 2px rgba(5, 5, 5, 0.542);
+    width: 70%;
+    height: auto;
+    display: flex;
+    align-items:end;
+    justify-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+.photo img{
+    width: 90%;
+    height: auto;
+    transform: scaleX(-1);
+}
+
+.img-main {
+    width: 90%;
+    height: auto;
+    transform: scaleX(-1);
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .text-me strong{
+        background: linear-gradient(580deg, #fa80f6, #9b39f8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        transition: color 0.6s ease, font-size 0.6s ease, margin 0.5s ease;
+  }
+
+  .descubre{
+    background: linear-gradient(580deg, #7d2844a3, #6f39f862,#39f88962);
+    backdrop-filter: blur(20px);
+    border: 0.5px solid rgba(255, 255, 255, 0.254);
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-position 2s ease; /* Transición para la posición del fondo */
+    background-size: 200% 200%; /* Tamaño del fondo para animación */
+    background-position: 0% 0%;
+  }
+
+  .descubre:hover{
+    background-position: 100% 100%
+  }
+
+/* '../assets/avatartion.png' */
+

@@ -1,0 +1,235 @@
+
+
+.ReactNative{
+    background-color: rgb(0, 143, 205);
+    border-radius: 55px;
+    padding: 8px;
+    margin: 2px;
+    font-size: x-small;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+} 
+
+.React{
+    background-color: rgb(0, 143, 205);
+    border-radius: 55px;
+    padding: 8px;
+    margin: 2px;
+    font-size: x-small;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.JavaScript{
+    background-color: #f3af02;
+    color: rgb(38, 38, 38);
+    border-radius: 55px;
+    margin: 5px;
+    padding: 8px;
+    font-size: x-small;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.HTML{
+    background-color:#ff7300;
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.CSS{
+    background-color: rgb(28, 62, 187);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.PHP{
+    background-color: rgb(107, 32, 188);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.Java{
+    background-color: rgb(218, 11, 32);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+
+}
+
+.SpringBoot{
+    background-color: rgb(24, 179, 16);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.MYSQL{
+    background-color: rgb(43, 136, 159);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.Orientado-Objetos{
+    background-color: rgb(120, 94, 150);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+
+.Consumo-APIS{
+    background-color: rgb(205, 174, 0);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.ReactNative:hover{
+    background-color: transparent;
+    color: rgb(0, 143, 205);
+    border: 0.5px solid rgb(0, 143, 205);;
+}
+.React:hover{
+    background-color: transparent;
+    color: rgb(0, 143, 205);
+    border: 0.5px solid rgb(0, 143, 205);;
+}
+.JavaScript:hover{
+    background-color: transparent;
+    color: #F4D03F;
+    border: 0.5px solid #F4D03F;
+}
+.HTML:hover{
+    background-color: transparent;
+    color: #FF7F50;
+    border: 0.5px solid #FF7F50;
+}
+.CSS:hover{
+    background-color: transparent;
+    color: rgb(64, 58, 242);
+    border: 0.5px solid rgb(28, 62, 187);
+}
+.PHP:hover{
+    background-color: transparent;
+    color: rgb(122, 4, 247);
+    border: 0.5px solid rgb(107, 32, 188);
+}
+
+.Java:hover{
+    background-color: transparent;
+    color: rgb(244, 32, 53);
+    border: 0.5px solid rgb(218, 11, 32);
+}
+
+.SpringBoot:hover{
+    background-color: transparent;
+    color: rgb(24, 179, 16);
+    border: 0.5px solid rgb(24, 179, 16);
+}
+
+.MYSQL:hover{
+    background-color: transparent;
+    color: rgb(43, 136, 159);
+    border: 0.5px solid rgb(43, 136, 159);
+}
+
+.Orientado-Objetos:hover{
+    background-color: transparent;
+    color: rgb(120, 94, 150);
+    border: 0.5px solid rgb(120, 94, 150);
+}
+
+.Consumo-APIS:hover{
+    background-color: transparent;
+    color: rgb(205, 174, 0);
+    border: 0.5px solid rgb(205, 174, 0);
+}
+
+.Algoritmos{
+    background-color: rgb(205, 0, 58);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.Algoritmos:hover{
+    background-color: transparent;
+    color: rgb(205, 0, 58);
+    border: 0.5px solid rgb(205, 0, 58);
+}
+
+.Estructura-De-Datos{
+    background-color: rgb(0, 71, 71);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.Estructura-De-Datos:hover{
+    background-color: transparent;
+    color: rgb(0, 71, 71);
+    border: 0.5px solid rgb(0, 71, 71);
+}
+
+.Routing-And-Switching{
+    background-color: rgb(130, 132, 88);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.Routing-And-Switching:hover{
+    background-color: transparent;
+    color: rgb(130, 132, 88);
+    border: 0.5px solid rgb(130, 132, 88);
+}
+
+.Redes{
+    background-color: rgb(157, 36, 201);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.Redes:hover{
+    background-color: transparent;
+    color: rgb(157, 36, 201);
+    border: 0.5px solid rgb(157, 36, 201);
+}
+
+.Cisco{
+    background-color: rgb(6, 191, 200);
+    border-radius: 55px;
+    margin: 5px;
+    font-size: x-small;
+    padding: 8px;
+    transition: color 0.6s ease, background-color 0.6s ease, border 0.6s ease;
+}
+.Cisco:hover{
+    background-color: transparent;
+    color: rgb(6, 191, 200);
+    border: 0.5px solid rgb(6, 191, 200);
+}
+
+
+

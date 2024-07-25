@@ -1,0 +1,40 @@
+{
+
+    "1":{
+        "titulo":"Java y SpringBoot - Oracle Next Education",
+        "descripcion":"Certificado del curso Java y SpringBoot de la especializacion de Backend en el programa ONE con Alura",
+        "etiquetas":["Java", "SpringBoot", "MYSQL"],
+        "enlace":"https://i.imgur.com/iYUsA6o.jpg",
+        "urlImg":"https://i.imgur.com/rtiGLcY.jpg"
+    },
+    "2":{
+        "titulo":"Java orientado a objetos - Oracle Next Education",
+        "descripcion":"Certificado del curso Java y SpringBoot de la especializacion de Backend en el programa ONE con Alura",
+        "etiquetas":["Java", "Orientado-Objetos", "Consumo-APIS"],
+        "enlace":"https://i.imgur.com/kCL3cEw.jpg",
+        "urlImg":"https://i.imgur.com/53vFFg1.jpg"
+    },
+    "3":{
+        "titulo":"Front End Development Libraries - FreeCodeCamp",
+        "descripcion":"Certificado de Front-End utilizando la librería React de JavaScript",
+        "etiquetas":["React", "CSS", "JavaScript"],
+        "enlace":"https://www.freecodecamp.org/certification/fccc44f8041-aa6e-4b5a-868a-fdbdcdcf12d8/front-end-development-libraries",
+        "urlImg":"https://i.imgur.com/hwCbNy3.jpg"
+    },
+    "4":{
+        "titulo":"JavaScript Algorithms and Data Structures",
+        "descripcion":"Certificado de JavaScript utilizando la conceptos de estructuras de datos y algoritmos",
+        "etiquetas":["JavaScript", "Algoritmos", "Estructura-De-Datos"],
+        "enlace":"https://www.freecodecamp.org/certification/fccc44f8041-aa6e-4b5a-868a-fdbdcdcf12d8/javascript-algorithms-and-data-structures",
+        "urlImg":"https://i.imgur.com/zVBzlta.jpg"
+    },
+    "5":{
+        "titulo":"CCNA Routing And Switching: Principios Básicos de routing y switching",
+        "descripcion":"Curso práctico y orientado a las prácticas de laboratorio enfocado en la configuración de equipo de redes",
+        "etiquetas":["Routing-And-Switching", "Cisco", "Redes"],
+        "enlace":"https://i.imgur.com/Y2DgCdl.jpg",
+        "urlImg":"https://i.imgur.com/X5chJ2o.jpg"
+    }
+
+
+}

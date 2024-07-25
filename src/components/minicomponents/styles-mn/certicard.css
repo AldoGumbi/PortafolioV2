@@ -1,0 +1,90 @@
+.certificate{
+    width: 80%;
+    height: auto;
+    margin: 0px;
+    /* box-shadow: 0px 0px 20px 10px rgba(49, 49, 49, 0.235); */
+    border: 0.5px solid;
+    border-color: #9f9f9f2c;
+    border-radius: 10px;
+    transform: scale(1); /* Escala inicial */
+    transition: transform 0.3s ease, box-shadow 0.5s ease, width 0.5s ease;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    transition: scale 0.5s;
+}
+
+.certificate:hover{
+    scale: 1.05;
+}
+
+.info-certi{
+    width: 100%;
+    padding: 10px;
+}
+
+.skills-cards{
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    border: 0.5px solid;
+    border-color: rgba(255, 255, 255, 0.143);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.buttons-certi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(61, 61, 61, 0.386);
+    width: 12%;
+    height: auto;
+    border-radius: 0px 10px 10px 0px;
+
+}
+
+@media (max-width:549px) {
+    .certificate{
+        width: 90%;
+        flex-direction: column;
+        height: auto;
+        margin-top: 50px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .info-certi{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 90%;
+        font-size: small;
+    }
+
+    .info-certi p{
+        text-align: justify;
+    }
+    .buttons-certi{
+        flex-direction: row;
+        width: 100%;
+        height: 20%;
+        border-radius: 0px 0px 10px 10px;
+        margin-top: 10px;
+    }
+    .skills-cards{
+        margin-top: 10px;
+    }
+    
+}
+    
+@media (min-width:550px) and (max-width: 900px){
+    .carrousel-certificates{
+        width: 100%;
+    }
+}
+   

@@ -1,0 +1,38 @@
+
+@media (min-width:401px) and (max-width: 1024px){
+    .ReactNative{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .React{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .JavaScript{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .HTML{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .CSS{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .PHP{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .SpringBoot{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Java{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .MYSQL{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Orientado-Objetos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Consumo-APIS{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Algoritmos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Estructura-De-Datos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Routing-And-Switching{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Redes{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Cisco{font-size: 6px; border-radius: 5px; margin: 1px;}
+  }
+
+  @media (max-width:549px) {
+    .ReactNative{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .React{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .JavaScript{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .HTML{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .CSS{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .PHP{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .SpringBoot{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Java{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .MYSQL{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Orientado-Objetos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Consumo-APIS{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Algoritmos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Estructura-De-Datos{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Routing-And-Switching{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Redes{font-size: 6px; border-radius: 5px; margin: 1px;}
+    .Cisco{font-size: 6px; border-radius: 5px; margin: 1px;}
+  }

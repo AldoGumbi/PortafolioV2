@@ -1,0 +1,18 @@
+
+
+@media (max-width:549px) {
+    .carrousel-certificates{
+        width: 100vw;
+    }
+    
+}
+    
+@media (min-width:550px) and (max-width: 1024px){
+    .certificates{
+        margin-left:20px;
+    }
+    .carrousel-certificates{
+        width: 100vw;   
+    }
+}
+    

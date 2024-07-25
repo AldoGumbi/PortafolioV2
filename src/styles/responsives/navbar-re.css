@@ -1,0 +1,39 @@
+
+
+@media (max-width: 549px){
+    .navbar{
+        font-size: 10px;
+        width: 70vw;
+        display: flex;
+        flex-direction: row;
+        position: fixed;
+        left: 0;
+        margin-left: 10%;
+    }
+
+    .lista-botones{
+        width: auto;
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: row;
+    }
+
+}
+
+@media (min-width:550px) and (max-width: 1024px){
+    .navbar{
+        font-size: 12px;
+        width: 70vw;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .lista-botones{
+        width: auto;
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,172 @@
+
+button{
+    outline: none;
+}
+.button-navbar{
+    height: 100%;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0;
+    background-color: transparent;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-color 0.8s ease, transform 0.8s ease, border-bottom-color 0.8s ease; /* Añade una transición */
+
+  }
+ 
+  .button-navbar:hover {
+    background-color: rgba(255, 255, 255, 0.093);
+    scale: 1.05;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 5px solid;
+    border-bottom-color: #c53b7095 ;
+  }
+
+
+
+  .button-link {
+    width: 80%;
+    height: 35%;
+    border-radius: 10px;
+    margin: 2px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid;
+    border-color: rgba(157, 157, 157, 0.489);
+    background-color: transparent;
+    transition: color 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .button-link::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: rgb(255, 21, 126);
+    color: white;
+    transition: all .3s;
+    z-index: -1;
+  }
+  .button-link:hover {
+    border: none;
+    scale: 1.09;
+    font-size: 25px;
+      color: #fff;
+      &:before {
+        width: 100%;
+      }
+    }
+  
+  .button-image {
+    width: 80%;
+    height: 35%;
+    border-radius: 10px;
+    margin: 2px;
+    margin-top:5px;
+    cursor: pointer;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid;
+    border-color: rgba(157, 157, 157, 0.489);
+    background-color: transparent;
+    transition: color 0.4s ease;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .button-image::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: rgb(37, 204, 0);
+    color: white;
+    transition: all .3s;
+    z-index: -1;
+  }
+
+  .button-image:hover {
+    border: none;
+    font-size: 25px;
+    scale: 1.09;
+      color: #fff;
+      &:before {
+        width: 100%;
+      }
+    }
+
+.linkProject{
+  width: 70%;
+  height: 100%;
+  border-radius: 10px;
+  margin: 5px;
+  border: 0.5px solid;
+  border-color: rgb(43, 54, 252);
+  background-color: transparent;
+  transition: background-color 0.4s ease-in-out, scale 0.7s ease;
+  cursor: pointer;
+}
+.linkProject:hover {
+  border: none;
+  scale: 1.05;
+  background-color: rgb(43, 54, 252);;
+  }
+
+.gitProject{
+  width: 25%;
+  height: 100%;
+  border-radius: 10px;
+  margin: 5px; 
+  border: 0.5px solid;
+  border-color: rgb(250, 62, 0);
+  background-color: transparent;
+  transition: background-color 0.4s ease-in-out, scale 0.7s ease;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.gitProject:hover {
+  border: none;
+  scale: 1.05;
+  background-color: rgb(250, 62, 0);
+  color: black;
+  }
+
+  .button-navbar:focus {outline: none;}
+
+  @media (max-width:549px) {
+    .button-image{
+      width: 40%;
+      height: 80%;
+      margin: 5px;
+      border-radius: 10px;
+    }
+    .button-link{
+      width: 40%;
+      height: 80%;
+      margin: 5px;
+      border-radius: 10px;
+    }
+    
+}
