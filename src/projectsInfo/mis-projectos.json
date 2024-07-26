@@ -9,7 +9,7 @@
             "imagen": "https://i.imgur.com/kI3mJ9t.png",
             "links": "https://frijolgumbi8899.000webhostapp.com/Inicio/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/9YSwsBJ.png", "https://i.imgur.com/3epSWK8.png", "https://i.imgur.com/wXKmQeR.jpeg"],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722007291/9YSwsBJ_rokq9j.png", "https://i.imgur.com/3epSWK8.png", "https://i.imgur.com/wXKmQeR.jpeg"],
             "descripcion": ["Este es un challenge del programa Oracle Next Education en colaboración con Alura para la etapa de finalización de la ruta Backend. <br><br> Se realiza un sistema en Java utilizando el framework de SpringBoot para hacer un servicio completo de una API [GET, POST, PUT, DELETE] y además la implementación de seguridad generando un token de autorización con JWT<br><br>El objetivo principal logrado fue hacer un sistema para un foro de dudas y respuestas, donde existe un topico con posibles respuestas, y un usuario con posibles topicos en la plataforma"],
             "enlaceGithub":"https://github.com/AldoGumbi/ForoAluraChallenge.git"
         },
@@ -23,7 +23,7 @@
             "imagen": "https://res.cloudinary.com/dshz6ne2u/image/upload/v1722006841/TB02741_bxpfmm.png",
             "links": "https://frijolgumbi8899.000webhostapp.com/Inicio/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/TB02741.png", "https://i.imgur.com/3epSWK8.png"],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722006841/TB02741_bxpfmm.png", "https://i.imgur.com/3epSWK8.png"],
             "descripcion": ["En este proyecto escolar, desarrollé un sistema de control de acceso para los invitados al centro universitario de CUCEI. <br> <br> Utilizando una aplicación móvil desarrollada en React Native, los invitados se registraban proporcionando datos básicos como nombre, fecha de invitación, puerta de entrada y módulo al que asistirían. Además, se recopilaba información sobre el vehículo en el que llegarían, si fuera necesario.<br> <br> Como complemento al proyecto, se creó una página web <strong>(La que abre el proyecto)</strong> que muestra la próxima persona en llegar, una lista de espera de otros invitados y una lista de personas con demoras."],
             "enlaceGithub":""
         },
@@ -37,7 +37,7 @@
             "imagen": "https://i.imgur.com/C0ZBFRb.png",
             "links": "https://main--admtaskoperativesistem.netlify.app/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/SsTCDIY.png", "https://i.imgur.com/5lRAyMU.png", "https://i.imgur.com/ZbcQkq5.png","https://i.imgur.com/1s6nsSA.png"],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722007295/SsTCDIY_qvydyd.png", "https://i.imgur.com/5lRAyMU.png", "https://i.imgur.com/ZbcQkq5.png","https://i.imgur.com/1s6nsSA.png"],
             "descripcion": ["Este es un proyecto para la clase de Sistemas Operativos, donde a través de una interfaz gráfica, se representa de manera visual el funcionamiento de la administración de procesos en un sistema operativo.<br> <br> Siguiendo la teoría, se logró abordar de forma representativa el funcionamiento de los siguientes temas vistos en clase:<br> Procesamiento por lotes y multiprocesamiento, Administrador de procesos y estados de un proceso, Algoritmos de planificación (FCFS, Round Robin, Prioridades y Colas múltiples), problemas de concurrencia y administración de memoria."
                 ],
               
@@ -53,7 +53,7 @@
             "imagen": "https://i.imgur.com/C0ZBFRb.png",
             "links": "https://aldogumbi.github.io/AluraChallenge01/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/QyjA5fZ.png", "https://i.imgur.com/EM3ODRU.png", "https://i.imgur.com/qXq1Zbo.png", "https://i.imgur.com/ce80Ppc.png"],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722007297/QyjA5fZ_tsthzd.png", "https://i.imgur.com/EM3ODRU.png", "https://i.imgur.com/qXq1Zbo.png", "https://i.imgur.com/ce80Ppc.png"],
             "descripcion": [
                   "Este es un challenge del programa Oracle Next Education en colaboración con Alura para la etapa 1 de aprendizaje del curso Principiante en programación.<br> <br>En este proyecto se busca realizar un encriptador de texto siguiendo una complejidad de encriptación sencilla, donde se remplazan las vocales por una serie de caracteres que define cada vocal, y la desencriptación funciona de la misma forma, reconociendo estas cadenas de caracteres únicas y reemplazando por sus vocales correspondientes."
                 ],
@@ -70,7 +70,7 @@
             "imagen": "https://i.imgur.com/3vJSMrX.png",
             "links": "https://exquisite-bienenstitch-dc984d.netlify.app/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/YkSQ23u.png","https://i.imgur.com/4IoLxyI.png" ],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722007334/YkSQ23u_exhyhn.png","https://i.imgur.com/4IoLxyI.png" ],
             "descripcion":["Este proyecto es una calculadora desarrollada utilizando React, realizada para la certificación de Front-end de FreeCodeCamp"],
             "enlaceGithub":"https://github.com/AldoGumbi/FCC-React-JsC"
         },
@@ -84,7 +84,7 @@
             "imagen": "https://i.imgur.com/3vJSMrX.png",
             "links": "https://stirring-treacle-e50616.netlify.app/",
             "archivo": "",
-            "imagenes":["https://i.imgur.com/Gk6fErf.png","https://i.imgur.com/KpkL3yS.png","https://i.imgur.com/FlCHLPF.png" ],
+            "imagenes":["https://res.cloudinary.com/dshz6ne2u/image/upload/v1722007369/Gk6fErf_awuplw.png","https://i.imgur.com/KpkL3yS.png","https://i.imgur.com/FlCHLPF.png" ],
             "descripcion":["Este proyecto es una maquina de notas randoms desarrollada utilizando React, realizada para la certificación de Front-end de FreeCodeCamp"],
             "enlaceGithub":"https://github.com/AldoGumbi/FFC-React-RQM"
         }
