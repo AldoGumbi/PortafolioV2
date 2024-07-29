@@ -112,7 +112,7 @@
     justify-items: center;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 50px); 
-    gap: 10px;/* Ajusta la altura según sea necesario */
+    gap: 20px;/* Ajusta la altura según sea necesario */
 }
 
 .programming-box {
