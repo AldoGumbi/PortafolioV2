@@ -22,7 +22,7 @@ class ProjectCard extends Component<ProjectCardProps>{
           distance: '0px', // Distancia de desplazamiento
           duration: 800, // Duración de la animación en milisegundos
           easing: 'ease-out', // Función de aceleración
-          reset: true, // Permite que la animación se repita al hacer scroll hacia arriba
+          reset: false, // Permite que la animación se repita al hacer scroll hacia arriba
           delay: 400,
           viewFactor: 0.4, // Parte del elemento que necesita ser visible para que se inicie la animación
         }
