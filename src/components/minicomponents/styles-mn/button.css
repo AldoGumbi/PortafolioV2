@@ -118,6 +118,7 @@ button{
   height: 100%;
   border-radius: 10px;
   margin: 5px;
+
   border: 0.5px solid;
   border-color: rgb(43, 54, 252);
   background-color: transparent;
@@ -158,15 +159,24 @@ button{
   @media (max-width:549px) {
     .button-image{
       width: 40%;
-      height: 80%;
+      height: 40px;
       margin: 5px;
       border-radius: 10px;
     }
     .button-link{
       width: 40%;
-      height: 80%;
+      height: 40px;      
       margin: 5px;
       border-radius: 10px;
     }
+
+    .gitProject{  margin-bottom: 15px;}
+    .linkProject{  margin-bottom: 15px;}
     
+}
+
+@media (min-width: 550px) and (max-width:1024px)  {
+
+  .gitProject{  margin-bottom: 15px;}
+  .linkProject{  margin-bottom: 15px;}
 }
