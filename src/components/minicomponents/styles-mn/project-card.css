@@ -157,7 +157,7 @@
 @media (min-width:550px) and (max-width: 1024px){
   .project{height: auto ;width: 36%; height: auto;
   }
-  .img-project{height: 250px;}
+    .img-project{height: 250px; background-size: cover;}
   .description{font-size: x-small; color: white; height: 70%;}
   .project:hover {border-bottom: none;}
   
