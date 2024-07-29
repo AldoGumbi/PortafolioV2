@@ -123,9 +123,6 @@
 .description p{
   margin: 10px;
 }
-.description:-webkit-scrollbar-track-piece{
-  background-color: red;
-}
 .description:hover{color: white}
 
 .buttons{
@@ -143,9 +140,10 @@
 
 
 @media (max-width: 549px){
-  .project{height: 380px ;width: 98%; }
-  .description{font-size: x-small; color: white;}
+  .project{height: auto ;width: 98%; }
+  .description{font-size: x-small; color: white; height: 45%;}
   .project:hover {border-bottom: none;}
+  .img-project{height: 350px;}
   .img-project p{margin: 0;}
   .tittle{
     background-color: rgba(7, 7, 7, 0.656); 
@@ -157,7 +155,10 @@
   .galery{left: 10px;}
 }
 @media (min-width:550px) and (max-width: 1024px){
-  .project{height: 380px ;width: 36%;}
-  .description{font-size: x-small; color: white;}
+  .project{height: auto ;width: 36%; height: auto;
+  }
+  .img-project{height: 250px;}
+  .description{font-size: x-small; color: white; height: 70%;}
   .project:hover {border-bottom: none;}
+  
   }
