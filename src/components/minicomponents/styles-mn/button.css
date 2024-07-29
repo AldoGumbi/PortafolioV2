@@ -177,6 +177,6 @@ button{
 
 @media (min-width: 550px) and (max-width:1024px)  {
 
-  .gitProject{  margin-bottom: 15px;}
-  .linkProject{  margin-bottom: 15px;}
+  .gitProject{  margin-bottom: 15px; height: 40px;}
+  .linkProject{  margin-bottom: 15px; height: 40px;}
 }
