@@ -170,8 +170,8 @@ button{
       border-radius: 10px;
     }
 
-    .gitProject{  margin-bottom: 15px;}
-    .linkProject{  margin-bottom: 15px;}
+    .gitProject{  margin-bottom: 15px; height: 100%;}
+    .linkProject{  margin-bottom: 15px; height: 100%;}
     
 }
 
