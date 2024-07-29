@@ -106,11 +106,13 @@
 
 .tabla-iconos{
     width: 50%;
+    margin-top: 20px;
     display: grid;
-    grid-template-columns: repeat(5, 2fr);
-    grid-template-rows: repeat(2, 50px); /* Ajusta la altura según sea necesario */
-    row-gap: 10px; /* Espacio vertical entre las filas */
-    column-gap: 10px;
+    align-items: center;
+    justify-items: center;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 50px); 
+    gap: 10px;/* Ajusta la altura según sea necesario */
 }
 
 .programming-box {
@@ -244,7 +246,7 @@
         flex-direction: column;
         width: 65%;
         margin: 0;
-        height: 30%;
+        height: 42%;
         justify-content: center;
     }
 
@@ -264,7 +266,7 @@
         margin-top: 30px;
     }
 
-    .tabla-iconos{width: 90%;margin-left: 20px;}
+    .tabla-iconos{width: 85%; margin-left: 0px;} 
 
 }
 
@@ -313,12 +315,9 @@
     .tech-skills{
         width: 50%;
         height: 45%;
-        align-items: center;
-        justify-content: center;
         margin: 0;
         padding: 0;
     }
-
     .tabla-iconos{width: 90%;}
 
 }
