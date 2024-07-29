@@ -39,7 +39,7 @@ class ProjectCard extends Component<ProjectCardProps>{
            <div className='img-project' 
            style={{ backgroundImage: `url(${imagen})`,
                     backgroundPosition: 'center', 
-                    backgroundSize: 'contain',
+                    backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
                      }}>
             <p className='tittle'>{titulo}</p>
