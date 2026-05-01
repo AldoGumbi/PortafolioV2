@@ -34,7 +34,7 @@ render(){
     <>
       <section className='projects' >
         <div className='projects-container' id='proyectos'>
-          <h2 className='tituloSeccion'>Principales proyectos </h2> //CONTADOR_EJERCICIOS
+          <h2 className='tituloSeccion'>Principales proyectos 1</h2> //CONTADOR_EJERCICIOS
           <div className='carrousel-projects'>
           {proyectosDatos.proyecto.map(project => (
               <ProjectCard
